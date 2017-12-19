@@ -1,0 +1,14 @@
+{
+    "name": "react-native-estimote-wrapper",
+    "version": "0.0.1",
+    "keywords": [
+      "react-native",
+      "react-component",
+      "ios",
+      "ibeacon",
+      "beacon",
+      "estimote"
+    ],
+    "main": "RNEstimote.ios.js"
+  }
+  
